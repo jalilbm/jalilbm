@@ -3,7 +3,7 @@
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jalilbm" alt="jalilbm" /></a> </p>  
   
-- 🔭 I’m currently working on [RareFND](rarefnd.com)  
+- 🔭 I’m currently working on [RareFND](https://www.rarefnd.com)  
   
 - 🌱 I’m currently learning **Blockchain and Dapps**  
   
