@@ -5,9 +5,9 @@
   
 - 🔭 I’m currently working on [RareFND](https://www.rarefnd.com)  
   
-- 🌱 I’m currently learning **Blockchain and Dapps**  
+- 🌱 I’m currently learning **Mobile Apps developement**  
   
-- 💬 Ask me about **Python, Django, ReactJS, Web Scraping, Web Automation**  
+- 💬 Ask me about **Python, Django, ReactJS, Blockchain, Smart Contracts, Web Scraping, Web Automation**  
   
 - 📫 How to reach me **abdeldjalil.benharkat@gmail.com**  
   
