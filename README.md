@@ -5,7 +5,7 @@
   
 - 🔭 I’m currently working on [RareFND](https://www.rarefnd.com)  
   
-- 🌱 I’m currently learning **Mobile Apps developement**  
+- 🌱 I’m currently learning **Mobile Apps development**  
   
 - 💬 Ask me about **Python, Django, ReactJS, Blockchain, Smart Contracts, Web Scraping, Web Automation**  
   
