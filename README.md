@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jalil</h1>  
-<h3 align="center">A Python and React Full-stack Developer from Algeria (Based in Dubai)</h3>  
+<h3 align="center">A Python & React Full-stack Blockchain Developer (Based in Dubai)</h3>  
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jalilbm" alt="jalilbm" /></a> </p>  
   
