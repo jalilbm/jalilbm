@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jalil</h1>  
-<h3 align="center">A Python & React Full-stack Blockchain Developer (Based in Dubai)</h3>  
+<h3 align="center">A Full-stack Blockchain Developer (Based in Dubai)</h3>  
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jalilbm" alt="jalilbm" /></a> </p>  
   
-- 🔭 I’m currently working on [RareFND](https://www.rarefnd.com)  
+- 🔭 I’m currently working on [THE PIP WORLD](https://www.pip.world)  
   
-- 🌱 I’m currently learning **Mobile Apps development**  
+- 🌱 I’m currently learning **Smart Contract Auditing**  
   
-- 💬 Ask me about **Python, Django, ReactJS, Blockchain, Smart Contracts, Web Scraping, Web Automation**  
+- 💬 Ask me about **Blockchain, Smart Contracts, Web3 Security, Python, Django, ReactJS, Web Scraping, Web Automation**  
   
 - 📫 How to reach me **abdeldjalil.benharkat@gmail.com**  
   
